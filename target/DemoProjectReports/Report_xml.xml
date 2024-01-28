@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite failures="2" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="3" time="43.571684">
+    <testcase classname="Login" name="Successful Login into Ecommerce Website" time="21.682596">
+        <failure message="org.openqa.selenium.ElementClickInterceptedException: element click intercepted: Element &lt;a class=&quot;nav-link&quot; href=&quot;/logout&quot;&gt;...&lt;/a&gt; is not clickable at point (1160, 28). Other element would receive the click: &lt;div id=&quot;ajaxBusy&quot; style=&quot;display: block;&quot;&gt;...&lt;/div&gt;&#10;  (Session info: chrome=119.0.6045.160)&#10;Build info: version: '4.14.1', revision: '03f8ede370'&#10;System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21'&#10;Driver info: org.openqa.selenium.chrome.ChromeDriver&#10;Command: [ba5b5031b3a19432423d876725bff2b2, clickElement {id=BACB8D7D41C63F23F18E00F5ACD39A10_element_35}]&#10;Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 119.0.6045.160, chrome: {chromedriverVersion: 119.0.6045.105 (38c72552c5e..., userDataDir: C:\Users\BADWA03\AppData\Lo...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:60649}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:60649/devtoo..., se:cdpVersion: 119.0.6045.160, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}&#10;Element: [[ChromeDriver: chrome on windows (ba5b5031b3a19432423d876725bff2b2)] -&gt; xpath: //a[normalize-space()='Logout']]&#10;Session ID: ba5b5031b3a19432423d876725bff2b2&#13;&#10;&#9;at java.base/jdk.internal.reflect.DirectConstructorHandleAccessor.newInstance(DirectConstructorHandleAccessor.java:62)&#13;&#10;&#9;at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:502)&#13;&#10;&#9;at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:486)&#13;&#10;&#9;at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:200)&#13;&#10;&#9;at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:133)&#13;&#10;&#9;at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:52)&#13;&#10;&#9;at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:191)&#13;&#10;&#9;at org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:200)&#13;&#10;&#9;at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:175)&#13;&#10;&#9;at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:602)&#13;&#10;&#9;at org.openqa.selenium.remote.RemoteWebElement.execute(RemoteWebElement.java:224)&#13;&#10;&#9;at org.openqa.selenium.remote.RemoteWebElement.click(RemoteWebElement.java:77)&#13;&#10;&#9;at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)&#13;&#10;&#9;at java.base/java.lang.reflect.Method.invoke(Method.java:580)&#13;&#10;&#9;at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:51)&#13;&#10;&#9;at jdk.proxy2/jdk.proxy2.$Proxy16.click(Unknown Source)&#13;&#10;&#9;at PageObject.DemoLoginPage.clickOnLogoutBtn(DemoLoginPage.java:53)&#13;&#10;&#9;at StepDefinition.LoginStepDefs.user_Click_on_Logout_Link(LoginStepDefs.java:59)&#13;&#10;&#9;at ✽.User Click on Logout Link(file:FeatureFiles/Login(1).feature:10)&#13;&#10;"><![CDATA[Given User Launch Chrome Browser............................................passed
+When User Opens URL "https://admin-demo.nopcommerce.com/login"..............passed
+And User enters Email as "admin@yourstore.com" and Password as "admin"......passed
+And User clicks on Login....................................................passed
+When Page Title should be "Dashboard / nopCommerce administration"..........passed
+When User Click on Logout Link..............................................failed
+Then Page Title should be "Your store. Login"...............................skipped
+And close the browser.......................................................skipped
+
+StackTrace:
+org.openqa.selenium.ElementClickInterceptedException: element click intercepted: Element <a class="nav-link" href="/logout">...</a> is not clickable at point (1160, 28). Other element would receive the click: <div id="ajaxBusy" style="display: block;">...</div>
+  (Session info: chrome=119.0.6045.160)
+Build info: version: '4.14.1', revision: '03f8ede370'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [ba5b5031b3a19432423d876725bff2b2, clickElement {id=BACB8D7D41C63F23F18E00F5ACD39A10_element_35}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 119.0.6045.160, chrome: {chromedriverVersion: 119.0.6045.105 (38c72552c5e..., userDataDir: C:\Users\BADWA03\AppData\Lo...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:60649}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:60649/devtoo..., se:cdpVersion: 119.0.6045.160, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on windows (ba5b5031b3a19432423d876725bff2b2)] -> xpath: //a[normalize-space()='Logout']]
+Session ID: ba5b5031b3a19432423d876725bff2b2
+	at java.base/jdk.internal.reflect.DirectConstructorHandleAccessor.newInstance(DirectConstructorHandleAccessor.java:62)
+	at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:502)
+	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:486)
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:200)
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:133)
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:52)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:191)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:200)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:175)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:602)
+	at org.openqa.selenium.remote.RemoteWebElement.execute(RemoteWebElement.java:224)
+	at org.openqa.selenium.remote.RemoteWebElement.click(RemoteWebElement.java:77)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+	at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:51)
+	at jdk.proxy2/jdk.proxy2.$Proxy16.click(Unknown Source)
+	at PageObject.DemoLoginPage.clickOnLogoutBtn(DemoLoginPage.java:53)
+	at StepDefinition.LoginStepDefs.user_Click_on_Logout_Link(LoginStepDefs.java:59)
+	at ✽.User Click on Logout Link(file:FeatureFiles/Login(1).feature:10)
+]]></failure>
+    </testcase>
+    <testcase classname="Login" name="Successful Login into Ecommerce Website DDT" time="14.228347">
+        <system-out><![CDATA[Given User Launch Chrome Browser............................................passed
+When User Opens URL "https://admin-demo.nopcommerce.com/login"..............passed
+And User enters Email as "admin@yourstore.com" and Password as "admin"......passed
+And User clicks on Login....................................................passed
+When Page Title should be "Dashboard / nopCommerce administration"..........passed
+When User Click on Logout Link..............................................passed
+Then Page Title should be "Your store. Login"...............................passed
+And close the browser.......................................................passed
+]]></system-out>
+    </testcase>
+    <testcase classname="Login" name="Successful Login into Ecommerce Website DDT 2" time="7.660741">
+        <failure message="java.lang.AssertionError&#13;&#10;&#9;at org.junit.Assert.fail(Assert.java:86)&#13;&#10;&#9;at org.junit.Assert.assertTrue(Assert.java:41)&#13;&#10;&#9;at org.junit.Assert.assertTrue(Assert.java:52)&#13;&#10;&#9;at StepDefinition.LoginStepDefs.page_Title_should_be(LoginStepDefs.java:53)&#13;&#10;&#9;at ✽.Page Title should be &quot;Dashboard / nopCommerce administration&quot;(file:FeatureFiles/Login(1).feature:20)&#13;&#10;"><![CDATA[Given User Launch Chrome Browser............................................passed
+When User Opens URL "https://admin-demo.nopcommerce.com/login"..............passed
+And User enters Email as "test@yourstore.com" and Password as "admin".......passed
+And User clicks on Login....................................................passed
+When Page Title should be "Dashboard / nopCommerce administration"..........failed
+When User Click on Logout Link..............................................skipped
+Then Page Title should be "Your store. Login"...............................skipped
+And close the browser.......................................................skipped
+
+StackTrace:
+java.lang.AssertionError
+	at org.junit.Assert.fail(Assert.java:86)
+	at org.junit.Assert.assertTrue(Assert.java:41)
+	at org.junit.Assert.assertTrue(Assert.java:52)
+	at StepDefinition.LoginStepDefs.page_Title_should_be(LoginStepDefs.java:53)
+	at ✽.Page Title should be "Dashboard / nopCommerce administration"(file:FeatureFiles/Login(1).feature:20)
+]]></failure>
+    </testcase>
+</testsuite>

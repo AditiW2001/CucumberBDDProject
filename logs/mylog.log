@@ -1,0 +1,352 @@
+[INFO ] 2023-12-18 20:18:57.307 [main] LoginStepDefs - Setup1 executed........
+[INFO ] 2023-12-18 20:18:57.344 [main] LoginStepDefs - user launched chrome browser
+[INFO ] 2023-12-18 20:18:59.649 [main] LoginStepDefs - URL Opened
+[INFO ] 2023-12-18 20:18:59.818 [main] LoginStepDefs - Email address and password entered
+[INFO ] 2023-12-18 20:19:03.366 [main] LoginStepDefs - Login button clicked
+[WARN ] 2023-12-18 20:19:03.376 [main] LoginStepDefs - Page Title Matched
+[INFO ] 2023-12-18 20:19:08.303 [main] LoginStepDefs - User clicked on Logout link
+[WARN ] 2023-12-18 20:19:08.314 [main] LoginStepDefs - Page Title Matched
+[INFO ] 2023-12-18 20:19:08.664 [main] LoginStepDefs - Browser Closed
+[INFO ] 2023-12-18 20:19:09.706 [main] LoginStepDefs - Setup1 executed........
+[INFO ] 2023-12-18 20:19:09.706 [main] LoginStepDefs - user launched chrome browser
+[INFO ] 2023-12-18 20:19:11.316 [main] LoginStepDefs - URL Opened
+[INFO ] 2023-12-18 20:19:11.504 [main] LoginStepDefs - Email address and password entered
+[INFO ] 2023-12-18 20:19:14.422 [main] LoginStepDefs - Login button clicked
+[WARN ] 2023-12-18 20:19:14.448 [main] LoginStepDefs - Page Title Matched
+[INFO ] 2023-12-18 20:19:19.020 [main] LoginStepDefs - User clicked on Logout link
+[WARN ] 2023-12-18 20:19:19.031 [main] LoginStepDefs - Page Title Matched
+[INFO ] 2023-12-18 20:19:19.141 [main] LoginStepDefs - Browser Closed
+[INFO ] 2023-12-18 20:19:20.089 [main] LoginStepDefs - Setup1 executed........
+[INFO ] 2023-12-18 20:19:20.091 [main] LoginStepDefs - user launched chrome browser
+[INFO ] 2023-12-18 20:19:21.379 [main] LoginStepDefs - URL Opened
+[INFO ] 2023-12-18 20:19:21.556 [main] LoginStepDefs - Email address and password entered
+[INFO ] 2023-12-18 20:19:22.216 [main] LoginStepDefs - Login button clicked
+[INFO ] 2023-12-18 21:36:16.618 [main] LoginStepDefs - Setup1 executed........
+[INFO ] 2023-12-18 21:36:16.635 [main] LoginStepDefs - user launched chrome browser
+[INFO ] 2023-12-18 21:36:18.465 [main] LoginStepDefs - URL Opened
+[INFO ] 2023-12-18 21:36:18.651 [main] LoginStepDefs - Email address and password entered
+[INFO ] 2023-12-18 21:36:21.732 [main] LoginStepDefs - Login button clicked
+[WARN ] 2023-12-18 21:36:21.753 [main] LoginStepDefs - Page Title Matched
+[INFO ] 2023-12-18 21:36:26.510 [main] LoginStepDefs - User clicked on Logout link
+[WARN ] 2023-12-18 21:36:26.522 [main] LoginStepDefs - Page Title Matched
+[INFO ] 2023-12-18 21:36:26.669 [main] LoginStepDefs - Browser Closed
+[INFO ] 2023-12-18 21:36:29.623 [main] LoginStepDefs - Setup1 executed........
+[INFO ] 2023-12-18 21:36:29.624 [main] LoginStepDefs - user launched chrome browser
+[INFO ] 2023-12-18 21:36:31.376 [main] LoginStepDefs - URL Opened
+[INFO ] 2023-12-18 21:36:31.570 [main] LoginStepDefs - Email address and password entered
+[INFO ] 2023-12-18 21:36:34.661 [main] LoginStepDefs - Login button clicked
+[WARN ] 2023-12-18 21:36:34.677 [main] LoginStepDefs - Page Title Matched
+[INFO ] 2023-12-18 21:36:40.048 [main] LoginStepDefs - User clicked on Logout link
+[WARN ] 2023-12-18 21:36:40.058 [main] LoginStepDefs - Page Title Matched
+[INFO ] 2023-12-18 21:36:40.227 [main] LoginStepDefs - Browser Closed
+[INFO ] 2023-12-18 21:36:42.904 [main] LoginStepDefs - Setup1 executed........
+[INFO ] 2023-12-18 21:36:42.904 [main] LoginStepDefs - user launched chrome browser
+[INFO ] 2023-12-18 21:36:44.546 [main] LoginStepDefs - URL Opened
+[INFO ] 2023-12-18 21:36:44.732 [main] LoginStepDefs - Email address and password entered
+[INFO ] 2023-12-18 21:36:45.465 [main] LoginStepDefs - Login button clicked
+[INFO ] 2023-12-18 21:39:12.129 [main] LoginStepDefs - Setup1 executed........
+[INFO ] 2023-12-18 21:39:12.154 [main] LoginStepDefs - user launched chrome browser
+[INFO ] 2023-12-18 21:39:13.870 [main] LoginStepDefs - URL Opened
+[INFO ] 2023-12-18 21:39:13.955 [main] LoginStepDefs - Email address and password entered
+[INFO ] 2023-12-18 21:39:17.603 [main] LoginStepDefs - Login button clicked
+[WARN ] 2023-12-18 21:39:17.605 [main] LoginStepDefs - Page Title Matched
+[INFO ] 2023-12-18 21:39:22.807 [main] LoginStepDefs - User clicked on Logout link
+[WARN ] 2023-12-18 21:39:22.811 [main] LoginStepDefs - Page Title Matched
+[INFO ] 2023-12-18 21:39:23.613 [main] LoginStepDefs - Browser Closed
+[INFO ] 2023-12-18 21:39:25.526 [main] LoginStepDefs - Setup1 executed........
+[INFO ] 2023-12-18 21:39:25.526 [main] LoginStepDefs - user launched chrome browser
+[INFO ] 2023-12-18 21:39:27.534 [main] LoginStepDefs - URL Opened
+[INFO ] 2023-12-18 21:39:27.651 [main] LoginStepDefs - Email address and password entered
+[INFO ] 2023-12-18 21:39:30.712 [main] LoginStepDefs - Login button clicked
+[WARN ] 2023-12-18 21:39:30.725 [main] LoginStepDefs - Page Title Matched
+[INFO ] 2023-12-18 21:39:35.823 [main] LoginStepDefs - User clicked on Logout link
+[WARN ] 2023-12-18 21:39:35.832 [main] LoginStepDefs - Page Title Matched
+[INFO ] 2023-12-18 21:39:36.445 [main] LoginStepDefs - Browser Closed
+[INFO ] 2023-12-18 21:39:38.235 [main] LoginStepDefs - Setup1 executed........
+[INFO ] 2023-12-18 21:39:38.237 [main] LoginStepDefs - user launched chrome browser
+[INFO ] 2023-12-18 21:39:39.400 [main] LoginStepDefs - URL Opened
+[INFO ] 2023-12-18 21:39:39.480 [main] LoginStepDefs - Email address and password entered
+[INFO ] 2023-12-18 21:39:40.039 [main] LoginStepDefs - Login button clicked
+[INFO ] 2023-12-18 21:42:36.090 [main] LoginStepDefs - Setup1 executed........
+[INFO ] 2023-12-18 21:42:36.109 [main] LoginStepDefs - user launched chrome browser
+[INFO ] 2023-12-18 21:42:37.828 [main] LoginStepDefs - URL Opened
+[INFO ] 2023-12-18 21:42:37.911 [main] LoginStepDefs - Email address and password entered
+[INFO ] 2023-12-18 21:42:43.880 [main] LoginStepDefs - Login button clicked
+[WARN ] 2023-12-18 21:42:43.897 [main] LoginStepDefs - Page Title Matched
+[INFO ] 2023-12-18 21:42:50.053 [main] LoginStepDefs - User clicked on Logout link
+[WARN ] 2023-12-18 21:42:50.058 [main] LoginStepDefs - Page Title Matched
+[INFO ] 2023-12-18 21:42:50.058 [main] LoginStepDefs - Browser Closed
+[INFO ] 2023-12-18 21:42:52.488 [main] LoginStepDefs - Setup1 executed........
+[INFO ] 2023-12-18 21:42:52.488 [main] LoginStepDefs - user launched chrome browser
+[INFO ] 2023-12-18 21:42:54.483 [main] LoginStepDefs - URL Opened
+[INFO ] 2023-12-18 21:42:54.596 [main] LoginStepDefs - Email address and password entered
+[INFO ] 2023-12-18 21:43:00.843 [main] LoginStepDefs - Login button clicked
+[WARN ] 2023-12-18 21:43:00.858 [main] LoginStepDefs - Page Title Matched
+[INFO ] 2023-12-18 21:43:07.192 [main] LoginStepDefs - User clicked on Logout link
+[WARN ] 2023-12-18 21:43:07.195 [main] LoginStepDefs - Page Title Matched
+[INFO ] 2023-12-18 21:43:07.195 [main] LoginStepDefs - Browser Closed
+[INFO ] 2023-12-18 21:43:09.715 [main] LoginStepDefs - Setup1 executed........
+[INFO ] 2023-12-18 21:43:09.715 [main] LoginStepDefs - user launched chrome browser
+[INFO ] 2023-12-18 21:43:11.360 [main] LoginStepDefs - URL Opened
+[INFO ] 2023-12-18 21:43:11.433 [main] LoginStepDefs - Email address and password entered
+[INFO ] 2023-12-18 21:43:12.057 [main] LoginStepDefs - Login button clicked
+[INFO ] 2023-12-18 21:46:35.503 [main] LoginStepDefs - Setup1 executed........
+[INFO ] 2023-12-18 21:46:35.524 [main] LoginStepDefs - user launched chrome browser
+[INFO ] 2023-12-18 21:46:38.103 [main] LoginStepDefs - URL Opened
+[INFO ] 2023-12-18 21:46:38.321 [main] LoginStepDefs - Email address and password entered
+[INFO ] 2023-12-18 21:46:43.558 [main] LoginStepDefs - Login button clicked
+[WARN ] 2023-12-18 21:46:43.575 [main] LoginStepDefs - Page Title Matched
+[INFO ] 2023-12-18 21:46:48.346 [main] LoginStepDefs - User clicked on Logout link
+[WARN ] 2023-12-18 21:46:48.362 [main] LoginStepDefs - Page Title Matched
+[INFO ] 2023-12-18 21:46:48.363 [main] LoginStepDefs - Browser Closed
+[INFO ] 2023-12-18 21:46:50.302 [main] LoginStepDefs - Setup1 executed........
+[INFO ] 2023-12-18 21:46:50.306 [main] LoginStepDefs - user launched chrome browser
+[INFO ] 2023-12-18 21:46:52.954 [main] LoginStepDefs - URL Opened
+[INFO ] 2023-12-18 21:46:53.161 [main] LoginStepDefs - Email address and password entered
+[INFO ] 2023-12-18 21:46:59.526 [main] LoginStepDefs - Login button clicked
+[WARN ] 2023-12-18 21:46:59.539 [main] LoginStepDefs - Page Title Matched
+[INFO ] 2023-12-18 21:47:04.595 [main] LoginStepDefs - User clicked on Logout link
+[WARN ] 2023-12-18 21:47:04.611 [main] LoginStepDefs - Page Title Matched
+[INFO ] 2023-12-18 21:47:04.611 [main] LoginStepDefs - Browser Closed
+[INFO ] 2023-12-18 21:47:05.784 [main] LoginStepDefs - Setup1 executed........
+[INFO ] 2023-12-18 21:47:05.785 [main] LoginStepDefs - user launched chrome browser
+[INFO ] 2023-12-18 21:47:07.703 [main] LoginStepDefs - URL Opened
+[INFO ] 2023-12-18 21:47:07.892 [main] LoginStepDefs - Email address and password entered
+[INFO ] 2023-12-18 21:47:08.835 [main] LoginStepDefs - Login button clicked
+[INFO ] 2023-12-18 21:48:17.076 [main] LoginStepDefs - Setup1 executed........
+[INFO ] 2023-12-18 21:48:17.098 [main] LoginStepDefs - user launched chrome browser
+[INFO ] 2023-12-18 21:48:18.928 [main] LoginStepDefs - URL Opened
+[INFO ] 2023-12-18 21:48:19.118 [main] LoginStepDefs - Email address and password entered
+[INFO ] 2023-12-18 21:48:27.504 [main] LoginStepDefs - Login button clicked
+[WARN ] 2023-12-18 21:48:27.525 [main] LoginStepDefs - Page Title Matched
+[INFO ] 2023-12-18 21:48:33.438 [main] LoginStepDefs - User clicked on Logout link
+[WARN ] 2023-12-18 21:48:33.465 [main] LoginStepDefs - Page Title Matched
+[INFO ] 2023-12-18 21:48:33.465 [main] LoginStepDefs - Browser Closed
+[INFO ] 2023-12-18 21:48:34.960 [main] LoginStepDefs - Setup1 executed........
+[INFO ] 2023-12-18 21:48:34.960 [main] LoginStepDefs - user launched chrome browser
+[INFO ] 2023-12-18 21:48:36.800 [main] LoginStepDefs - URL Opened
+[INFO ] 2023-12-18 21:48:37.003 [main] LoginStepDefs - Email address and password entered
+[INFO ] 2023-12-18 21:48:43.067 [main] LoginStepDefs - Login button clicked
+[WARN ] 2023-12-18 21:48:43.077 [main] LoginStepDefs - Page Title Matched
+[INFO ] 2023-12-18 21:48:48.980 [main] LoginStepDefs - User clicked on Logout link
+[WARN ] 2023-12-18 21:48:49.015 [main] LoginStepDefs - Page Title Matched
+[INFO ] 2023-12-18 21:48:49.015 [main] LoginStepDefs - Browser Closed
+[INFO ] 2023-12-18 21:48:50.474 [main] LoginStepDefs - Setup1 executed........
+[INFO ] 2023-12-18 21:48:50.474 [main] LoginStepDefs - user launched chrome browser
+[INFO ] 2023-12-18 21:48:53.696 [main] LoginStepDefs - URL Opened
+[INFO ] 2023-12-18 21:48:53.907 [main] LoginStepDefs - Email address and password entered
+[INFO ] 2023-12-18 21:48:54.900 [main] LoginStepDefs - Login button clicked
+[INFO ] 2024-01-01 15:40:30.902 [main] LoginStepDefs - Setup1 executed........
+[INFO ] 2024-01-01 15:40:30.923 [main] LoginStepDefs - user launched chrome browser
+[INFO ] 2024-01-01 15:40:32.471 [main] LoginStepDefs - URL Opened
+[INFO ] 2024-01-01 15:40:32.673 [main] LoginStepDefs - Email address and password entered
+[INFO ] 2024-01-01 15:40:36.227 [main] LoginStepDefs - Login button clicked
+[WARN ] 2024-01-01 15:40:36.242 [main] LoginStepDefs - Page Title Matched
+[INFO ] 2024-01-01 15:40:41.514 [main] LoginStepDefs - User clicked on Logout link
+[WARN ] 2024-01-01 15:40:41.527 [main] LoginStepDefs - Page Title Matched
+[INFO ] 2024-01-01 15:40:41.527 [main] LoginStepDefs - Browser Closed
+[INFO ] 2024-01-01 15:40:43.056 [main] LoginStepDefs - Setup1 executed........
+[INFO ] 2024-01-01 15:40:43.059 [main] LoginStepDefs - user launched chrome browser
+[INFO ] 2024-01-01 15:40:44.529 [main] LoginStepDefs - URL Opened
+[INFO ] 2024-01-01 15:40:45.859 [main] LoginStepDefs - Setup1 executed........
+[INFO ] 2024-01-01 15:40:45.859 [main] LoginStepDefs - user launched chrome browser
+[INFO ] 2024-01-01 15:40:47.501 [main] LoginStepDefs - URL Opened
+[INFO ] 2024-01-01 17:03:11.577 [main] LoginStepDefs - Setup1 executed........
+[INFO ] 2024-01-01 17:03:11.604 [main] LoginStepDefs - user launched chrome browser
+[INFO ] 2024-01-01 17:03:13.619 [main] LoginStepDefs - URL Opened
+[INFO ] 2024-01-01 17:03:13.909 [main] LoginStepDefs - Email address and password entered
+[INFO ] 2024-01-01 17:03:19.347 [main] LoginStepDefs - Login button clicked
+[WARN ] 2024-01-01 17:03:19.365 [main] LoginStepDefs - Page Title Matched
+[INFO ] 2024-01-01 17:03:24.412 [main] LoginStepDefs - User clicked on Logout link
+[WARN ] 2024-01-01 17:03:24.506 [main] LoginStepDefs - Page Title Matched
+[INFO ] 2024-01-01 17:03:24.506 [main] LoginStepDefs - Browser Closed
+[INFO ] 2024-01-01 17:03:27.581 [main] LoginStepDefs - Setup1 executed........
+[INFO ] 2024-01-01 17:03:27.589 [main] LoginStepDefs - user launched chrome browser
+[INFO ] 2024-01-01 17:03:28.898 [main] LoginStepDefs - Setup1 executed........
+[INFO ] 2024-01-01 17:03:28.900 [main] LoginStepDefs - user launched chrome browser
+[INFO ] 2024-01-21 19:49:01.304 [main] LoginStepDefs - Setup1 executed........
+[INFO ] 2024-01-21 19:49:01.334 [main] LoginStepDefs - user launched chrome browser
+[INFO ] 2024-01-21 19:49:03.201 [main] LoginStepDefs - URL Opened
+[INFO ] 2024-01-21 19:49:03.408 [main] LoginStepDefs - Email address and password entered
+[INFO ] 2024-01-21 19:49:06.064 [main] LoginStepDefs - Login button clicked
+[WARN ] 2024-01-21 19:49:06.072 [main] LoginStepDefs - Page Title Matched
+[INFO ] 2024-01-21 19:49:11.116 [main] LoginStepDefs - User clicked on Logout link
+[WARN ] 2024-01-21 19:49:11.135 [main] LoginStepDefs - Page Title Matched
+[INFO ] 2024-01-21 19:49:11.135 [main] LoginStepDefs - Browser Closed
+[INFO ] 2024-01-21 19:49:13.448 [main] LoginStepDefs - Setup1 executed........
+[INFO ] 2024-01-21 19:49:13.456 [main] LoginStepDefs - user launched chrome browser
+[INFO ] 2024-01-21 19:49:15.065 [main] LoginStepDefs - URL Opened
+[INFO ] 2024-01-21 19:49:15.273 [main] LoginStepDefs - Email address and password entered
+[INFO ] 2024-01-21 19:49:18.070 [main] LoginStepDefs - Login button clicked
+[WARN ] 2024-01-21 19:49:18.088 [main] LoginStepDefs - Page Title Matched
+[INFO ] 2024-01-21 19:49:22.920 [main] LoginStepDefs - User clicked on Logout link
+[WARN ] 2024-01-21 19:49:22.933 [main] LoginStepDefs - Page Title Matched
+[INFO ] 2024-01-21 19:49:22.933 [main] LoginStepDefs - Browser Closed
+[INFO ] 2024-01-21 19:49:24.317 [main] LoginStepDefs - Setup1 executed........
+[INFO ] 2024-01-21 19:49:24.317 [main] LoginStepDefs - user launched chrome browser
+[INFO ] 2024-01-21 19:49:26.159 [main] LoginStepDefs - URL Opened
+[INFO ] 2024-01-21 19:49:26.384 [main] LoginStepDefs - Email address and password entered
+[INFO ] 2024-01-21 19:49:27.266 [main] LoginStepDefs - Login button clicked
+[INFO ] 2024-01-21 22:08:02.416 [main] LoginStepDefs - Setup1 executed........
+[INFO ] 2024-01-21 22:08:02.440 [main] LoginStepDefs - user launched chrome browser
+[INFO ] 2024-01-21 22:08:03.482 [main] LoginStepDefs - URL Opened
+[INFO ] 2024-01-21 22:08:03.675 [main] LoginStepDefs - Email address and password entered
+[INFO ] 2024-01-21 22:08:06.140 [main] LoginStepDefs - Login button clicked
+[WARN ] 2024-01-21 22:08:06.148 [main] LoginStepDefs - Page Title Matched
+[INFO ] 2024-01-21 22:08:10.955 [main] LoginStepDefs - User clicked on Logout link
+[WARN ] 2024-01-21 22:08:10.972 [main] LoginStepDefs - Page Title Matched
+[INFO ] 2024-01-21 22:08:10.972 [main] LoginStepDefs - Browser Closed
+[INFO ] 2024-01-21 22:08:12.238 [main] LoginStepDefs - Setup1 executed........
+[INFO ] 2024-01-21 22:08:12.239 [main] LoginStepDefs - user launched chrome browser
+[INFO ] 2024-01-21 22:08:13.893 [main] LoginStepDefs - URL Opened
+[INFO ] 2024-01-21 22:08:14.093 [main] LoginStepDefs - Email address and password entered
+[INFO ] 2024-01-21 22:08:16.824 [main] LoginStepDefs - Login button clicked
+[WARN ] 2024-01-21 22:08:16.852 [main] LoginStepDefs - Page Title Matched
+[INFO ] 2024-01-21 22:08:21.776 [main] LoginStepDefs - User clicked on Logout link
+[WARN ] 2024-01-21 22:08:21.803 [main] LoginStepDefs - Page Title Matched
+[INFO ] 2024-01-21 22:08:21.803 [main] LoginStepDefs - Browser Closed
+[INFO ] 2024-01-21 22:08:23.009 [main] LoginStepDefs - Setup1 executed........
+[INFO ] 2024-01-21 22:08:23.009 [main] LoginStepDefs - user launched chrome browser
+[INFO ] 2024-01-21 22:08:24.797 [main] LoginStepDefs - URL Opened
+[INFO ] 2024-01-21 22:08:24.991 [main] LoginStepDefs - Email address and password entered
+[INFO ] 2024-01-21 22:08:25.593 [main] LoginStepDefs - Login button clicked
+[INFO ] 2024-01-21 22:14:00.666 [main] LoginStepDefs - Setup1 executed........
+[INFO ] 2024-01-21 22:14:00.689 [main] LoginStepDefs - user launched chrome browser
+[INFO ] 2024-01-21 22:14:02.655 [main] LoginStepDefs - URL Opened
+[INFO ] 2024-01-21 22:14:02.840 [main] LoginStepDefs - Email address and password entered
+[INFO ] 2024-01-21 22:14:05.397 [main] LoginStepDefs - Login button clicked
+[INFO ] 2024-01-21 22:14:09.890 [main] LoginStepDefs - Setup1 executed........
+[INFO ] 2024-01-21 22:14:09.890 [main] LoginStepDefs - user launched chrome browser
+[INFO ] 2024-01-21 22:14:11.733 [main] LoginStepDefs - URL Opened
+[INFO ] 2024-01-21 22:14:11.955 [main] LoginStepDefs - Email address and password entered
+[INFO ] 2024-01-21 22:14:15.028 [main] LoginStepDefs - Login button clicked
+[INFO ] 2024-01-21 22:14:19.320 [main] LoginStepDefs - Setup1 executed........
+[INFO ] 2024-01-21 22:14:19.321 [main] LoginStepDefs - user launched chrome browser
+[INFO ] 2024-01-21 22:14:21.447 [main] LoginStepDefs - URL Opened
+[INFO ] 2024-01-21 22:14:21.624 [main] LoginStepDefs - Email address and password entered
+[INFO ] 2024-01-21 22:14:24.212 [main] LoginStepDefs - Login button clicked
+[INFO ] 2024-01-21 22:14:28.595 [main] LoginStepDefs - Setup1 executed........
+[INFO ] 2024-01-21 22:14:28.595 [main] LoginStepDefs - user launched chrome browser
+[INFO ] 2024-01-21 22:14:30.195 [main] LoginStepDefs - URL Opened
+[INFO ] 2024-01-21 22:14:30.384 [main] LoginStepDefs - Email address and password entered
+[INFO ] 2024-01-21 22:14:33.161 [main] LoginStepDefs - Login button clicked
+[WARN ] 2024-01-21 22:14:33.170 [main] LoginStepDefs - Page Title Matched
+[INFO ] 2024-01-21 22:14:38.333 [main] LoginStepDefs - User clicked on Logout link
+[WARN ] 2024-01-21 22:14:38.370 [main] LoginStepDefs - Page Title Matched
+[INFO ] 2024-01-21 22:14:38.370 [main] LoginStepDefs - Browser Closed
+[INFO ] 2024-01-21 22:14:39.439 [main] LoginStepDefs - Setup1 executed........
+[INFO ] 2024-01-21 22:14:39.440 [main] LoginStepDefs - user launched chrome browser
+[INFO ] 2024-01-21 22:14:40.401 [main] LoginStepDefs - URL Opened
+[INFO ] 2024-01-21 22:14:40.597 [main] LoginStepDefs - Email address and password entered
+[INFO ] 2024-01-21 22:14:44.054 [main] LoginStepDefs - Login button clicked
+[WARN ] 2024-01-21 22:14:44.070 [main] LoginStepDefs - Page Title Matched
+[INFO ] 2024-01-21 22:14:49.353 [main] LoginStepDefs - User clicked on Logout link
+[WARN ] 2024-01-21 22:14:49.388 [main] LoginStepDefs - Page Title Matched
+[INFO ] 2024-01-21 22:14:49.388 [main] LoginStepDefs - Browser Closed
+[INFO ] 2024-01-21 22:14:50.454 [main] LoginStepDefs - Setup1 executed........
+[INFO ] 2024-01-21 22:14:50.459 [main] LoginStepDefs - user launched chrome browser
+[INFO ] 2024-01-21 22:14:52.175 [main] LoginStepDefs - URL Opened
+[INFO ] 2024-01-21 22:14:52.367 [main] LoginStepDefs - Email address and password entered
+[INFO ] 2024-01-21 22:14:53.106 [main] LoginStepDefs - Login button clicked
+[INFO ] 2024-01-28 21:45:13.206 [main] LoginStepDefs - Setup1 executed........
+[INFO ] 2024-01-28 21:45:13.247 [main] LoginStepDefs - user launched chrome browser
+[INFO ] 2024-01-28 21:45:16.157 [main] LoginStepDefs - URL Opened
+[INFO ] 2024-01-28 21:45:16.336 [main] LoginStepDefs - Email address and password entered
+[INFO ] 2024-01-28 21:45:19.923 [main] LoginStepDefs - Login button clicked
+[INFO ] 2024-01-28 21:45:37.601 [main] LoginStepDefs - Setup1 executed........
+[INFO ] 2024-01-28 21:45:37.602 [main] LoginStepDefs - user launched chrome browser
+[INFO ] 2024-01-28 21:45:39.301 [main] LoginStepDefs - URL Opened
+[INFO ] 2024-01-28 21:45:39.475 [main] LoginStepDefs - Email address and password entered
+[INFO ] 2024-01-28 21:45:42.612 [main] LoginStepDefs - Login button clicked
+[INFO ] 2024-01-28 21:45:54.417 [main] LoginStepDefs - Setup1 executed........
+[INFO ] 2024-01-28 21:45:54.418 [main] LoginStepDefs - user launched chrome browser
+[INFO ] 2024-01-28 21:45:56.516 [main] LoginStepDefs - URL Opened
+[INFO ] 2024-01-28 21:45:56.689 [main] LoginStepDefs - Email address and password entered
+[INFO ] 2024-01-28 21:45:59.861 [main] LoginStepDefs - Login button clicked
+[INFO ] 2024-01-28 21:46:07.662 [main] LoginStepDefs - Setup1 executed........
+[INFO ] 2024-01-28 21:46:07.664 [main] LoginStepDefs - user launched chrome browser
+[INFO ] 2024-01-28 21:46:09.700 [main] LoginStepDefs - URL Opened
+[INFO ] 2024-01-28 21:46:09.866 [main] LoginStepDefs - Email address and password entered
+[INFO ] 2024-01-28 21:46:12.617 [main] LoginStepDefs - Login button clicked
+[WARN ] 2024-01-28 21:46:12.627 [main] LoginStepDefs - Page Title Matched
+[INFO ] 2024-01-28 21:46:18.100 [main] LoginStepDefs - User clicked on Logout link
+[WARN ] 2024-01-28 21:46:18.114 [main] LoginStepDefs - Page Title Matched
+[INFO ] 2024-01-28 21:46:18.114 [main] LoginStepDefs - Browser Closed
+[INFO ] 2024-01-28 21:46:24.416 [main] LoginStepDefs - Setup1 executed........
+[INFO ] 2024-01-28 21:46:24.417 [main] LoginStepDefs - user launched chrome browser
+[INFO ] 2024-01-28 21:46:26.627 [main] LoginStepDefs - URL Opened
+[INFO ] 2024-01-28 21:46:26.795 [main] LoginStepDefs - Email address and password entered
+[INFO ] 2024-01-28 21:46:30.137 [main] LoginStepDefs - Login button clicked
+[WARN ] 2024-01-28 21:46:30.149 [main] LoginStepDefs - Page Title Matched
+[INFO ] 2024-01-28 21:46:35.251 [main] LoginStepDefs - User clicked on Logout link
+[WARN ] 2024-01-28 21:46:35.288 [main] LoginStepDefs - Page Title Matched
+[INFO ] 2024-01-28 21:46:35.289 [main] LoginStepDefs - Browser Closed
+[INFO ] 2024-01-28 21:46:40.246 [main] LoginStepDefs - Setup1 executed........
+[INFO ] 2024-01-28 21:46:40.246 [main] LoginStepDefs - user launched chrome browser
+[INFO ] 2024-01-28 21:46:41.904 [main] LoginStepDefs - URL Opened
+[INFO ] 2024-01-28 21:46:42.069 [main] LoginStepDefs - Email address and password entered
+[INFO ] 2024-01-28 21:46:42.830 [main] LoginStepDefs - Login button clicked
+[INFO ] 2024-01-28 21:50:03.868 [main] LoginStepDefs - Setup1 executed........
+[INFO ] 2024-01-28 21:50:03.898 [main] LoginStepDefs - user launched chrome browser
+[INFO ] 2024-01-28 21:50:06.217 [main] LoginStepDefs - URL Opened
+[INFO ] 2024-01-28 21:50:06.405 [main] LoginStepDefs - Email address and password entered
+[INFO ] 2024-01-28 21:50:09.657 [main] LoginStepDefs - Login button clicked
+[WARN ] 2024-01-28 21:50:09.671 [main] LoginStepDefs - Page Title Matched
+[INFO ] 2024-01-28 21:50:14.642 [main] LoginStepDefs - User clicked on Logout link
+[WARN ] 2024-01-28 21:50:14.660 [main] LoginStepDefs - Page Title Matched
+[INFO ] 2024-01-28 21:50:14.660 [main] LoginStepDefs - Browser Closed
+[INFO ] 2024-01-28 21:50:19.240 [main] LoginStepDefs - Setup1 executed........
+[INFO ] 2024-01-28 21:50:19.240 [main] LoginStepDefs - user launched chrome browser
+[INFO ] 2024-01-28 21:50:21.090 [main] LoginStepDefs - URL Opened
+[INFO ] 2024-01-28 21:50:21.264 [main] LoginStepDefs - Email address and password entered
+[INFO ] 2024-01-28 21:50:24.428 [main] LoginStepDefs - Login button clicked
+[WARN ] 2024-01-28 21:50:24.438 [main] LoginStepDefs - Page Title Matched
+[INFO ] 2024-01-28 21:50:29.489 [main] LoginStepDefs - User clicked on Logout link
+[WARN ] 2024-01-28 21:50:29.532 [main] LoginStepDefs - Page Title Matched
+[INFO ] 2024-01-28 21:50:29.532 [main] LoginStepDefs - Browser Closed
+[INFO ] 2024-01-28 21:50:33.505 [main] LoginStepDefs - Setup1 executed........
+[INFO ] 2024-01-28 21:50:33.505 [main] LoginStepDefs - user launched chrome browser
+[INFO ] 2024-01-28 21:50:35.305 [main] LoginStepDefs - URL Opened
+[INFO ] 2024-01-28 21:50:35.476 [main] LoginStepDefs - Email address and password entered
+[INFO ] 2024-01-28 21:50:36.197 [main] LoginStepDefs - Login button clicked
+[INFO ] 2024-01-28 21:54:44.729 [main] LoginStepDefs - Setup1 executed........
+[INFO ] 2024-01-28 21:54:44.752 [main] LoginStepDefs - user launched chrome browser
+[INFO ] 2024-01-28 21:54:46.836 [main] LoginStepDefs - URL Opened
+[INFO ] 2024-01-28 21:54:47.026 [main] LoginStepDefs - Email address and password entered
+[INFO ] 2024-01-28 21:54:50.191 [main] LoginStepDefs - Login button clicked
+[INFO ] 2024-01-28 21:54:56.518 [main] LoginStepDefs - Setup1 executed........
+[INFO ] 2024-01-28 21:54:56.518 [main] LoginStepDefs - user launched chrome browser
+[INFO ] 2024-01-28 21:54:58.043 [main] LoginStepDefs - URL Opened
+[INFO ] 2024-01-28 21:54:58.229 [main] LoginStepDefs - Email address and password entered
+[INFO ] 2024-01-28 21:55:01.421 [main] LoginStepDefs - Login button clicked
+[INFO ] 2024-01-28 21:55:09.393 [main] LoginStepDefs - Setup1 executed........
+[INFO ] 2024-01-28 21:55:09.393 [main] LoginStepDefs - user launched chrome browser
+[INFO ] 2024-01-28 21:55:11.173 [main] LoginStepDefs - URL Opened
+[INFO ] 2024-01-28 21:55:11.349 [main] LoginStepDefs - Email address and password entered
+[INFO ] 2024-01-28 21:55:14.626 [main] LoginStepDefs - Login button clicked
+[INFO ] 2024-01-28 22:00:40.324 [main] LoginStepDefs - Setup1 executed........
+[INFO ] 2024-01-28 22:00:40.352 [main] LoginStepDefs - user launched chrome browser
+[INFO ] 2024-01-28 22:00:42.991 [main] LoginStepDefs - URL Opened
+[INFO ] 2024-01-28 22:00:43.209 [main] LoginStepDefs - Email address and password entered
+[INFO ] 2024-01-28 22:00:45.734 [main] LoginStepDefs - Login button clicked
+[INFO ] 2024-01-28 22:01:02.834 [main] LoginStepDefs - Setup1 executed........
+[INFO ] 2024-01-28 22:01:02.836 [main] LoginStepDefs - user launched chrome browser
+[INFO ] 2024-01-28 22:01:04.490 [main] LoginStepDefs - URL Opened
+[INFO ] 2024-01-28 22:01:05.691 [main] LoginStepDefs - Setup1 executed........
+[INFO ] 2024-01-28 22:01:05.692 [main] LoginStepDefs - user launched chrome browser
+[INFO ] 2024-01-28 22:01:06.970 [main] LoginStepDefs - URL Opened
+[INFO ] 2024-01-28 22:05:02.956 [main] LoginStepDefs - Setup1 executed........
+[INFO ] 2024-01-28 22:05:02.980 [main] LoginStepDefs - user launched chrome browser
+[INFO ] 2024-01-28 22:05:04.828 [main] LoginStepDefs - URL Opened
+[INFO ] 2024-01-28 22:05:05.013 [main] LoginStepDefs - Email address and password entered
+[INFO ] 2024-01-28 22:05:07.632 [main] LoginStepDefs - Login button clicked
+[INFO ] 2024-01-28 22:05:19.825 [main] LoginStepDefs - Setup1 executed........
+[INFO ] 2024-01-28 22:05:19.827 [main] LoginStepDefs - user launched chrome browser
+[INFO ] 2024-01-28 22:05:26.083 [main] LoginStepDefs - URL Opened
+[INFO ] 2024-01-28 22:05:26.265 [main] LoginStepDefs - Email address and password entered
+[INFO ] 2024-01-28 22:05:28.724 [main] LoginStepDefs - Login button clicked
+[INFO ] 2024-01-28 22:05:38.421 [main] LoginStepDefs - Setup1 executed........
+[INFO ] 2024-01-28 22:05:38.423 [main] LoginStepDefs - user launched chrome browser
+[INFO ] 2024-01-28 22:05:40.240 [main] LoginStepDefs - URL Opened
+[INFO ] 2024-01-28 22:05:40.419 [main] LoginStepDefs - Email address and password entered
+[INFO ] 2024-01-28 22:05:42.642 [main] LoginStepDefs - Login button clicked
